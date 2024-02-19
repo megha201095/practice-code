@@ -2,6 +2,23 @@
   text-align: center;
 }
 
+.BoardButton{
+  height: 100px;
+  width: 100px;
+  background-color: bisque;
+  font-size: xxx-large;
+
+}
+
+.ResetButton{
+  height: 50px;
+  width: 200px;
+  background-color: burlywood;
+  border-radius: 5px;
+  font-family: cursive;
+  font-size: xx-large;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
